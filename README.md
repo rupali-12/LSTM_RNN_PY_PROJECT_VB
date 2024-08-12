@@ -7,6 +7,8 @@ This project implements a **Long Short-Term Memory (LSTM) Recurrent Neural Netwo
 You can access the deployed version of the application using the following link:
 
 [LSTM RNN Word Prediction](https://lstmrnnpyprojectvb-quwzawu4ynybzvyeakofkf.streamlit.app/)
+[GITHUB_LINK](https://github.com/rupali-12/LSTM_RNN_PY_PROJECT_VB)
+[GITLAB_LINK](GITLABLINK)
 
 ## Getting Started
 
@@ -21,7 +23,7 @@ Make sure you have Python installed on your system. You'll also need to install 
 1. **Clone the repository** to your local machine:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/rupali-12/LSTM_RNN_PY_PROJECT_VB
    ```
 
 2. **Navigate to the project directory:**
