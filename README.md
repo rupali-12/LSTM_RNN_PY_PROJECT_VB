@@ -6,7 +6,7 @@ This project implements a **Long Short-Term Memory (LSTM) Recurrent Neural Netwo
 
 You can access the deployed version of the application using the following link:
 
-[LSTM RNN Word Prediction](https://your-deployed-link.com/)
+[LSTM RNN Word Prediction](https://lstmrnnpyprojectvb-quwzawu4ynybzvyeakofkf.streamlit.app/)
 
 ## Getting Started
 
